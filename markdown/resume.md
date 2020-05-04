@@ -25,23 +25,23 @@ Education
 Experience
 ----------
 
-**Senior Sofware Developer 2019-present, YOOX NET A PORTER GROUP:**
+**Senior Sofware Developer 2015-present, YOOX NET A PORTER GROUP:**
 
-In 2019 I became a **Senior Software Developer** leading the team specialized in the management of the customer order lifecycle of our backend. Being the technical leader of the team focused me on further aspects like:
+* Functional Programming enthusiast with extensive experience using Scala for the past 5
+years.
+* Believer in teamwork and collaboration to help improve my expertise and level of
+knowledge whilst offering help/support to other team members.
+
+In 2019 I was promoted to **senior software developer** which meant leading the team responsible
+for the complete lifecycle of the backend ordering system. Being the technical leader include
+these additional responsibilities:
 
 * Integrating and onboarding external clients on our platform
 * Increase and manage the technical level of my team
 * Be responsible for the architectural choices of our domain cooperating with other teams
-* Have a strict connection with a business analyst for designing the best solution given the requirements
+* Have a strict connection with a business analyst for designing the best solution given the require-
+ments
 * Be the responsible for the technical judgment of new candidates that want to join our team
-
-**Sofware Developer 2015-2019, YOOX NET A PORTER GROUP:**
-
-I started as a **Software developer** in the team specialized in the management of the customer order lifecycle of our backend system.
-During the very first period, we were very committed to building a brand new platform and so my effort has been focused mostly in:
-
-* Develop a consistent number of microservices and anti-corruption layers
-* Customize and manage a third-party order management system (IBM Sterling Order Management System)
 
 **Internship trainee April-October 2015, YOOX NET A PORTER GROUP.**
 
@@ -56,27 +56,11 @@ Technical Experience
 ----------
 
 Functional Programming
-:   I spent a lot of time in learning principles and techniques of functional programming.
-    During this years I worked mostly in **Scala** and I have applied this paradyghm exploiting
-    libraries such as:
-
-    * **scalaz**
-    * **cats**
-    * **cats-effect**
-    * **doobie**
-    * **http4s**
-    * **fs2**
-    * **shapeless**
-    * **monocle**
-
-    Nowadays I'm comfortable with the typelevel organization libraries and they are always present
-    in our production applications.
+:   I’m constantly trying to learn new principles and techniques
+surrounding Functional Programming and the technologies I have the most experience with are: **Scalaz**, **Cats**, **Cats-effect**, **Doobie**, **Http4s**, **Fs2**, **Shapeless**, **Monocle**.
 
 Messaging Systems
-:    In developing microservices I had experience interacting with message brokers of two different technologies:
-
-    * **RabbitMQ**
-    * **IBM MQ**
+:    In developing microservices I had experience interacting with message brokers of two different technologies, **RabbitMQ** and **IBM MQ**
 
 Cloud Providers
 :    Basic experience with **AWS**
@@ -96,8 +80,8 @@ Open Source
     * fs2-rabbit [link](https://github.com/profunktor/fs2-rabbit/releases/tag/2.1.0)
 
 Programming Languages
-:   **Scala:** This the language I have more experience with.
-    I started programming Scala in 2015 embracing functional programming as much as I can.
+:   **Scala:** This is my main programming language, I’ve been using it in production since 2015 and
+have implemented functional principles as often as possible.
 
 :   **Java:** I use Java daily so I'm comfortable with it.
 
@@ -109,7 +93,8 @@ Local Community
 
 I am the founder and the coordinator of a local community named **Functional Programming in Bologna**. [link](https://fpinbo.dev/)\
 
-I care about **spreading the knowledge about functional programming** and so I organize sessions every month (more or less).\
+Every month (more or less) I organise and run training workshops on Scala and Functional
+Programming to help improve the skillset and knowledge of my team members.\
 
 Thanks to this community I had the opportunity to join the members of the **Scala Italy** in the organization of the 2019 edition in Bologna. [link](http://2019.scala-italy.it/)
 
