@@ -1,6 +1,6 @@
 Alessandro Zanin
 ============
-> [github](https://github.com/azanin), [twitter](https://twitter.com/a_zanin), [linkedIn](https://www.linkedin.com/in/alessandro-zanin-799a6942/), [site](http://azanin.github.io/)
+> [github](https://github.com/azanin) [twitter](https://twitter.com/a_zanin) [linkedIn](https://www.linkedin.com/in/alessandro-zanin-799a6942/) [site](http://azanin.github.io/)
 
 > <ale.zanin90@gmail.com>
 
@@ -50,7 +50,7 @@ I started in 2015 as **software developer** taking part in the new order managem
 
 I used to work since the beginning in the team responsible for the order lifecycle management, actively contributing to:
 
-* the implementation of a new feature in the order system
+* the implementation of new features in the order system
 
 * the integration with external domain systems developing several anti-corruption-layers
 
@@ -93,12 +93,12 @@ Communities
 
 I am the founder and the coordinator of a local community named [*Functional Programming in Bologna*](https://fpinbo.dev/)
 
-Every month (more or less) I organize and run training workshops on Scala and Functional
+Every month I organize and run training workshops on Scala and Functional
 Programming to help improve the skillset and knowledge of my team members.
 
 Thanks to this community I had the opportunity to join the members of the [*Scala Italy*](http://2019.scala-italy.it/) in the organization of the 2019 edition in Bologna.
 
-I am also an active member and co-founder of an Italian community name [*Functional Fest*](https://www.functionalfest.it/).
+I am also an active member and co-founder of an Italian community named [*Functional Fest*](https://www.functionalfest.it/).
 We are focused on the organization of an international conference about functional programming shortly.
 
 Certificates
@@ -112,3 +112,8 @@ Hobbies
 Apart from programming, I like to take care of plants and reading philosophy authors.\
 
 Cats lover and owner!
+
+----
+
+> born 1/7/1990 • tel. +393349873507 \
+> Via Pompeo Vizzani 43 - Bologna, Italy\
